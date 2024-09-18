@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Live Link :  [http://localhost:3000](http://localhost:3000) 
+
 open this link to view it in your browser
 
 ## Available Scripts
