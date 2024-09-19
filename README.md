@@ -1,9 +1,10 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The thoughts passed will expire after 15seconds.
 
 
-open this link to view it in your browser
+open this link to view it in your browser : https://to-do-list-app7.netlify.app
 
 ## Available Scripts
 
